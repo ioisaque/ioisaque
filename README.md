@@ -22,7 +22,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ideyou.com.br/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/isaquecosttaa/)
 
-<a href="https://www.buymeacoffee.com/isaquecosta" target="blank">
+<a href="https://www.buymeacoffee.com/isaquecosta" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=40 >
 </a>
 
@@ -34,20 +34,20 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecostaa&layout=compact&langs_count=10&hide_border=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Language stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecostaa&layout=compact&langs_count=10&hide_border=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Language Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=isaquecostaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Github stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=isaquecostaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Github Stats" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecostaa&layout=compact&langs_count=10&hide_border=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Language stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecostaa&layout=compact&langs_count=10&hide_border=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Language Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=isaquecostaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Github stats" />
+    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api?username=isaquecostaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Github Stats" />
   </a>
 </div>
 
