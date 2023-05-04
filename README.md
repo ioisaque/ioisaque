@@ -1,10 +1,10 @@
-## Hey 👋, I'm [Isaque Costa!](https://github.com/isaquecostaa/)
+## Hey 👋, I'm [Isaque Costa!](https://github.com/ioisaque/)
 
 <img align="right" width="54%" src="https://cdn.ideyou.com.br/assets/gifs/lightbulb-720x720-15fps.gif" />
 
 <p align="left">
 
-**Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=isaquecostaa.isaquecostaa&style=flat-square&color=0088cc)
+**Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ioisaque.ioisaque&style=flat-square&color=0088cc)
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaquecostaa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ioisaque)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ideyou.com.br/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/isaquecosttaa/)
 
@@ -34,20 +34,20 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isaquecostaa&layout=compact&langs_count=10&hide_border=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Language Stats" />
+    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ioisaque&layout=compact&langs_count=10&hide_border=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Language Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api?username=isaquecostaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Github Stats" />
+    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api?username=ioisaque&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=buefy#gh-light-mode-only" alt="Isaque Costa's Github Stats" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isaquecostaa&layout=compact&langs_count=10&hide_border=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Language Stats" />
+    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ioisaque&layout=compact&langs_count=10&hide_border=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Language Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api?username=isaquecostaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Github Stats" />
+    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api?username=ioisaque&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&theme=radical#gh-dark-mode-only" alt="Isaque Costa's Github Stats" />
   </a>
 </div>
 
