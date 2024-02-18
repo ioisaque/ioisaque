@@ -4,7 +4,7 @@
 
 <p align="left">
 
-**Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ioisaque.ioisaque&style=flat-square&color=0088cc)
+**Glad to see you here!** &nbsp; ![](https://badges.pufler.dev/visits/ioisaque/ioisaque)
 
 <br><br>
 
