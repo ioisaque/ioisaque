@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Isaque Costa!](https://github.com/ioisaque/) <img align="right" height="60px" src="https://cdn.isaque.it/assets/logos/logo-w.png" />
+## Hey 👋, I'm [Isaque Costa!](https://github.com/ioisaque/)
 
 <img align="right" width="54%" src="https://cdn.ideyou.com.br/assets/gifs/lightbulb-720x720-15fps.gif" />
 
